@@ -24,8 +24,8 @@ export const TodoPage = () => {
 	return (
 		<div className="todo-container">
 			<header className="todo-header">
-				<h1>✅ Vazifalar</h1>
-				<p>Bugungi rejalaringiz</p>
+				<h1>✅ Todolar</h1>
+				<p>Bugungi todolar</p>
 			</header>
 
 			<div className="todo-content">
