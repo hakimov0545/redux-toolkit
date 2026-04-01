@@ -45,7 +45,7 @@ export const ProductsDemo = () => {
 
 	return (
 		<div className="products-section">
-			<h2>Mahsulotlar Katalogi</h2>
+			<h2>Productlar Katalogi</h2>
 			<div className="products-grid">
 				{DEMO_PRODUCTS.map((product) => (
 					<div key={product.id} className="product-card">
